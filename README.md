@@ -19,6 +19,13 @@
 
 The Voting Application Project is designed to digitize the conventional voting process, making it more accessible, efficient, and secure. By allowing users to cast their votes effortlessly, this platform emphasizes the sanctity and privacy of every vote.
 
+![Image 1](assets/1.png)
+![Image 2](assets/2.png)
+![Image 3](assets/3.png)
+![Image 4](assets/4.png)
+![Image 5](assets/5.png)
+![Image 6](assets/6.png)
+
 ## 🔧 Setup and Installation
 
 1. **Clone the repository**:  
