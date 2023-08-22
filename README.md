@@ -3,6 +3,7 @@
 ## 📋 Table of Contents
 
 - [Overview](#overview)
+- [Setup and Installation](#setup-and-installation)
 - [Technologies Used](#technologies-used)
 - [Backend Infrastructure](#backend-infrastructure)
 - [Database Design](#database-design)
@@ -23,14 +24,21 @@ The Voting Application Project is designed to digitize the conventional voting p
 1. **Clone the repository**:  
    `git clone https://github.com/Ajelz/votingappsystem`
 
-2. **Install required dependencies**:  
-   `npm install`
+2. **Navigate to the backend folder and install the required dependencies for the backend**:
+   `cd backend`
+   `npm install bcrypt cors dotenv express express-rate-limit express-validator jsonwebtoken mysql2 sequelize winston --save`
 
 3. **Set up the environment variables** based on the `.env.example` file.
 
-4. **Start the server**:  
-   `npm start`
+4. **Start the backend server**:  
+`node app.js`
 
+5. **For the frontend, ensure you have Flutter SDK installed.**
+
+6. **If running on an Android device, ensure you either have a virtual Android device from Android Studio installed and running or an Android device connected by cable.**
+
+7. **Navigate to the frontend folder and run the Flutter app**:  
+`flutter run`
 
 ## 💡 Technologies Used
 
