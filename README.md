@@ -19,12 +19,21 @@
 
 The Voting Application Project is designed to digitize the conventional voting process, making it more accessible, efficient, and secure. By allowing users to cast their votes effortlessly, this platform emphasizes the sanctity and privacy of every vote.
 
-![Image 1](assets/1.png)
-![Image 2](assets/2.png)
-![Image 3](assets/3.png)
-![Image 4](assets/4.png)
-![Image 5](assets/5.png)
-![Image 6](assets/6.png)
+<table>
+  <tr>
+    <td><img src="assets/1.png" alt="Image 1" width="300"/></td>
+    <td><img src="assets/2.png" alt="Image 2" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/3.png" alt="Image 3" width="300"/></td>
+    <td><img src="assets/4.png" alt="Image 4" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/5.png" alt="Image 5" width="300"/></td>
+    <td><img src="assets/6.png" alt="Image 6" width="300"/></td>
+  </tr>
+</table>
+
 
 ## 🔧 Setup and Installation
 
